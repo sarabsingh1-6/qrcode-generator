@@ -28,7 +28,7 @@ const QrCode = () => {
 
   return (
     <>
-      <h1 className="mainHeading">QR CODE GENERATOR</h1>
+      <h1 className="mainHeading">QR CODE GENERATOR APP</h1>
       <div className="qrcode_container">
         <div>
           <input
